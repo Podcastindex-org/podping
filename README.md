@@ -76,3 +76,8 @@ The Podping system consists of multiple components:
                             schema definitions.
  - [Podping-schemas-rust](https://github.com/Podcastindex-org/podping-schemas-rust) - The Rust version of the schema 
                           definitions.
+
+
+## The System
+
+![Framework Overview 1](framework1.png)
